@@ -56,15 +56,6 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="default_inner_full.ctp" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Template/Layout/default_inner_full.ctp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="101" column="41" selection-start="3718" selection-end="3718" vertical-scroll-proportion="-6.4583335" vertical-offset="1360" max-vertical-offset="4590">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="top_nav.ctp" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Template/Element/Admin/top_nav.ctp">
           <provider selected="true" editor-type-id="text-editor">
@@ -112,10 +103,19 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="composer.json" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="composer.json" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/composer.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="17" column="48" selection-start="625" selection-end="625" vertical-scroll-proportion="0.5120482" vertical-offset="0" max-vertical-offset="810">
+            <state line="17" column="48" selection-start="625" selection-end="625" vertical-scroll-proportion="-10.625" vertical-offset="0" max-vertical-offset="810">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="README.md" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="53" selection-start="53" selection-end="53" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="522">
               <folding />
             </state>
           </provider>
@@ -131,7 +131,6 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/src/Model/Table/GalleriesTable.php" />
         <option value="$PROJECT_DIR$/src/Model/Table/ContentCategoriesTable.php" />
         <option value="$PROJECT_DIR$/src/Model/Table/FacultiesTable.php" />
         <option value="$PROJECT_DIR$/src/Model/Table/DepartmentsTable.php" />
@@ -182,6 +181,7 @@
         <option value="$PROJECT_DIR$/src/Template/Error/error400.ctp" />
         <option value="$PROJECT_DIR$/src/Template/Error/error500.ctp" />
         <option value="$PROJECT_DIR$/composer.json" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -292,10 +292,10 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1614" height="944" extended-state="0" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3290398" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3290398" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -331,11 +331,6 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Model/Table/StudentsAcademicsTable.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="85" column="6" selection-start="2261" selection-end="2261" vertical-scroll-proportion="-10.0" vertical-offset="975" max-vertical-offset="1485" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Model/Table/TransactionsTable.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="27" column="0" selection-start="562" selection-end="562" vertical-scroll-proportion="0.0" vertical-offset="405" max-vertical-offset="1815" />
@@ -675,7 +670,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/composer.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="17" column="48" selection-start="625" selection-end="625" vertical-scroll-proportion="0.5120482" vertical-offset="0" max-vertical-offset="810">
+        <state line="17" column="48" selection-start="625" selection-end="625" vertical-scroll-proportion="-10.625" vertical-offset="0" max-vertical-offset="810">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="53" selection-start="53" selection-end="53" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="522">
           <folding />
         </state>
       </provider>
