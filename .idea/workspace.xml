@@ -1,0 +1,685 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="65d7536d-59b8-49f0-9f58-26d9960765dd" name="Default" comment="" />
+    <ignored path="summit_app.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="summit_app" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="default_inner.ctp" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Template/Layout/default_inner.ctp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="102" column="0" selection-start="3709" selection-end="3709" vertical-scroll-proportion="-4.5833335" vertical-offset="1420" max-vertical-offset="4770">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="apply.ctp" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Template/Portal/Admissions/apply.ctp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="8" column="31" selection-start="229" selection-end="229" vertical-scroll-proportion="-5.0" vertical-offset="0" max-vertical-offset="1500">
+              <folding>
+                <element signature="n#style#0;n#h3#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+                <element signature="tag#div#0;tag#div#1;tag#div#1;tag#div#0;tag#div#0;tag#div#0;tag#div#0" expanded="false" />
+                <element signature="tag#div#2;tag#div#1;tag#div#0;tag#div#0;tag#div#0;tag#div#0" expanded="false" />
+                <element signature="tag#div#0;tag#div#3;tag#div#1;tag#div#0;tag#div#0;tag#div#0;tag#div#0" expanded="false" />
+                <element signature="tag#div#4;tag#div#1;tag#div#0;tag#div#0;tag#div#0;tag#div#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="theme_style.css" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/webroot/css/burbington/theme_style.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="47" column="125" selection-start="2159" selection-end="2159" vertical-scroll-proportion="0.0" vertical-offset="285" max-vertical-offset="10770">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="default_inner_full.ctp" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Template/Layout/default_inner_full.ctp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="101" column="41" selection-start="3718" selection-end="3718" vertical-scroll-proportion="-6.4583335" vertical-offset="1360" max-vertical-offset="4590">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="top_nav.ctp" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Template/Element/Admin/top_nav.ctp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="164" column="59" selection-start="9079" selection-end="9079" vertical-scroll-proportion="-8.25" vertical-offset="1017" max-vertical-offset="3975">
+              <folding>
+                <element signature="tag#div#0;tag#li#2;tag#ul#0;tag#div#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="login.ctp" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Template/Portal/Users/login.ctp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="12" column="80" selection-start="600" selection-end="600" vertical-scroll-proportion="-1.6794872" vertical-offset="49" max-vertical-offset="480">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="UsersController.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Controller/Portal/UsersController.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="261" column="40" selection-start="9085" selection-end="9085" vertical-scroll-proportion="-3.14" vertical-offset="3653" max-vertical-offset="7695">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="error400.ctp" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Template/Error/error400.ctp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="88" column="0" selection-start="0" selection-end="2682" vertical-scroll-proportion="-30.833334" vertical-offset="580" max-vertical-offset="1440">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="error500.ctp" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Template/Error/error500.ctp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="61" column="46" selection-start="1746" selection-end="1746" vertical-scroll-proportion="-5.8333335" vertical-offset="775" max-vertical-offset="1440">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="composer.json" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/composer.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="17" column="48" selection-start="625" selection-end="625" vertical-scroll-proportion="0.5120482" vertical-offset="0" max-vertical-offset="810">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindManager">
+    <FindUsagesManager>
+      <setting name="OPEN_NEW_TAB" value="false" />
+    </FindUsagesManager>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="changedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/src/Model/Table/GalleriesTable.php" />
+        <option value="$PROJECT_DIR$/src/Model/Table/ContentCategoriesTable.php" />
+        <option value="$PROJECT_DIR$/src/Model/Table/FacultiesTable.php" />
+        <option value="$PROJECT_DIR$/src/Model/Table/DepartmentsTable.php" />
+        <option value="$PROJECT_DIR$/src/Model/Table/UnitsTable.php" />
+        <option value="$PROJECT_DIR$/src/Model/Table/FeesTable.php" />
+        <option value="$PROJECT_DIR$/src/Model/Table/CoursesTable.php" />
+        <option value="$PROJECT_DIR$/src/Model/Table/AdmissionsApplicantsTable.php" />
+        <option value="$PROJECT_DIR$/src/Model/Table/ApplicantContactsTable.php" />
+        <option value="$PROJECT_DIR$/src/Model/Table/ApplicantEducationsTable.php" />
+        <option value="$PROJECT_DIR$/src/Model/Table/AdmissionPaymentsTable.php" />
+        <option value="$PROJECT_DIR$/src/Model/Table/CoursewaresTable.php" />
+        <option value="$PROJECT_DIR$/src/Model/Table/ResultsTable.php" />
+        <option value="$PROJECT_DIR$/src/Model/Table/StaffProfilesTable.php" />
+        <option value="$PROJECT_DIR$/src/Model/Table/StudentsAcademicsTable.php" />
+        <option value="$PROJECT_DIR$/src/Model/Table/ContentsTable.php" />
+        <option value="$PROJECT_DIR$/src/Model/Table/StudentsTable.php" />
+        <option value="$PROJECT_DIR$/src/Controller/Portal/ContentsController.php" />
+        <option value="$PROJECT_DIR$/src/Model/Table/SchoolSessionsTable.php" />
+        <option value="$PROJECT_DIR$/src/Controller/AdmissionsController.php" />
+        <option value="$PROJECT_DIR$/src/Controller/Portal/AdmissionsController.php" />
+        <option value="$PROJECT_DIR$/src/Template/Layout/home.ctp" />
+        <option value="$PROJECT_DIR$/src/Controller/PagesController.php" />
+        <option value="$PROJECT_DIR$/webroot/css/burbington/news.css" />
+        <option value="$PROJECT_DIR$/webroot/css/webslidemenu.css" />
+        <option value="$PROJECT_DIR$/webroot/css/burbington/menu.css" />
+        <option value="$PROJECT_DIR$/webroot/css/menu.css" />
+        <option value="$PROJECT_DIR$/src/Template/Element/Admin/burb_nav.ctp" />
+        <option value="$PROJECT_DIR$/webroot/js/site.js" />
+        <option value="$PROJECT_DIR$/src/Template/Element/Admin/news_ticker.ctp" />
+        <option value="$PROJECT_DIR$/webroot/css/style.css" />
+        <option value="$PROJECT_DIR$/src/Template/Element/Admin/news_widget.ctp" />
+        <option value="$PROJECT_DIR$/src/Template/Element/Admin/side_nav.ctp" />
+        <option value="$PROJECT_DIR$/src/Template/Pages/content.ctp" />
+        <option value="$PROJECT_DIR$/src/Template/Pages/albums.ctp" />
+        <option value="$PROJECT_DIR$/src/Template/Pages/contact.ctp" />
+        <option value="$PROJECT_DIR$/src/Template/Pages/categories.ctp" />
+        <option value="$PROJECT_DIR$/src/Template/template.html" />
+        <option value="$PROJECT_DIR$/src/Template/Pages/gallery.ctp" />
+        <option value="$PROJECT_DIR$/src/Controller/AppController.php" />
+        <option value="$PROJECT_DIR$/src/Template/Pages/home.ctp" />
+        <option value="$PROJECT_DIR$/src/Template/Layout/default.ctp" />
+        <option value="$PROJECT_DIR$/src/Template/Layout/default_inner_full.ctp" />
+        <option value="$PROJECT_DIR$/src/Template/Layout/default_inner.ctp" />
+        <option value="$PROJECT_DIR$/src/Template/Portal/Admissions/apply.ctp" />
+        <option value="$PROJECT_DIR$/webroot/css/burbington/theme_style.css" />
+        <option value="$PROJECT_DIR$/src/Template/Element/Admin/top_nav.ctp" />
+        <option value="$PROJECT_DIR$/src/Template/Portal/Users/login.ctp" />
+        <option value="$PROJECT_DIR$/src/Template/Error/error400.ctp" />
+        <option value="$PROJECT_DIR$/src/Template/Error/error500.ctp" />
+        <option value="$PROJECT_DIR$/composer.json" />
+      </list>
+    </option>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
+    <option name="width" value="1614" />
+    <option name="height" value="944" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectReloadState">
+    <option name="STATE" value="0" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="summit_app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="summit_app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="summit_app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="options.lastSelected" value="preferences.sourceCode" />
+    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.searchVisible" value="true" />
+    <property name="last_opened_file_path" value="/Applications/MAMP/htdocs/cmxs" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="LayoutCode.rearrangeEntriesPHP" value="false" />
+    <property name="LayoutCode.rearrangeEntriesHTML" value="false" />
+    <property name="LayoutCode.rearrangeEntriesCSS" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/Template/Layout" />
+      <recent name="$PROJECT_DIR$/src/Template/Portal" />
+      <recent name="$PROJECT_DIR$/src/Template/Pages" />
+      <recent name="$PROJECT_DIR$/src/Template/Element/Admin" />
+      <recent name="$PROJECT_DIR$/webroot/js" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/webroot/css/default" />
+      <recent name="$PROJECT_DIR$/webroot/img" />
+      <recent name="$PROJECT_DIR$/src/Controller/Portal" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug" singleton="true">
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpUnitRemoteRunConfigurationType" factoryName="PHPUnit on Server">
+      <method />
+    </configuration>
+    <list size="0" />
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="65d7536d-59b8-49f0-9f58-26d9960765dd" name="Default" comment="" />
+      <created>1476234089974</created>
+      <updated>1476234089974</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1614" height="944" extended-state="0" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3290398" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.259542" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="myTodoPanelSettings">
+      <TodoPanelSettings />
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/Model/Table/StudentsAcademicsTable.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="85" column="6" selection-start="2261" selection-end="2261" vertical-scroll-proportion="-10.0" vertical-offset="975" max-vertical-offset="1485" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Model/Table/TransactionsTable.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="27" column="0" selection-start="562" selection-end="562" vertical-scroll-proportion="0.0" vertical-offset="405" max-vertical-offset="1815" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Model/Table/ContentsTable.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="127" column="0" selection-start="3759" selection-end="3759" vertical-scroll-proportion="0.0" vertical-offset="1905" max-vertical-offset="2460" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Controller/Portal/StudentsController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="19" column="15" selection-start="308" selection-end="308" vertical-scroll-proportion="0.0" vertical-offset="1317" max-vertical-offset="2010" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Model/Table/StudentsTable.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="166" column="54" selection-start="5202" selection-end="5202" vertical-scroll-proportion="-0.0" vertical-offset="2490" max-vertical-offset="3000" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Model/Table/UsersTable.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="146" column="19" selection-start="4549" selection-end="4549" vertical-scroll-proportion="-8.75" vertical-offset="1890" max-vertical-offset="4875">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Model/Table/AdmissionsApplicantsTable.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="140" column="5" selection-start="3986" selection-end="3986" vertical-scroll-proportion="-85.0" vertical-offset="0" max-vertical-offset="2370" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Controller/Portal/ContentsController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="108" column="31" selection-start="3657" selection-end="3657" vertical-scroll-proportion="1.2048193" vertical-offset="1005" max-vertical-offset="2385" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Controller/Component/TabsComponent.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="20" column="20" selection-start="342" selection-end="342" vertical-scroll-proportion="54.25" vertical-offset="1542" max-vertical-offset="2040" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Template/Portal/Setting/index.ctp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="522" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Controller/Portal/SettingController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="159" column="89" selection-start="6139" selection-end="6139" vertical-scroll-proportion="-86.458336" vertical-offset="250" max-vertical-offset="3825" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Model/Entity/Configuration.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="25" column="6" selection-start="534" selection-end="534" vertical-scroll-proportion="16.125" vertical-offset="747" max-vertical-offset="1245" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Model/Table/ConfigurationsTable.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="22" column="33" selection-start="409" selection-end="409" vertical-scroll-proportion="-11.25" vertical-offset="0" max-vertical-offset="1260" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Model/Table/AlbumsTable.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="33" column="26" selection-start="722" selection-end="722" vertical-scroll-proportion="-8.125" vertical-offset="240" max-vertical-offset="945" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Model/Table/GalleriesTable.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="96" column="7" selection-start="2523" selection-end="2523" vertical-scroll-proportion="-34.875" vertical-offset="543" max-vertical-offset="1575" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Model/Table/SchoolSessionsTable.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="133" column="0" selection-start="3742" selection-end="3742" vertical-scroll-proportion="-17.0" vertical-offset="1527" max-vertical-offset="2055" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Controller/PagesController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="38" column="44" selection-start="1156" selection-end="1156" vertical-scroll-proportion="0.0" vertical-offset="570" max-vertical-offset="2925">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/webroot/css/burbington/news.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="70" column="17" selection-start="1430" selection-end="1430" vertical-scroll-proportion="0.0" vertical-offset="980" max-vertical-offset="2265">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Template/Element/Admin/footer.ctp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="520">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Template/Element/Admin/navbar_side.ctp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="20" column="18" selection-start="1390" selection-end="1390" vertical-scroll-proportion="0.0" vertical-offset="300" max-vertical-offset="615">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/webroot/css/demo.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="20" column="4" selection-start="350" selection-end="350" vertical-scroll-proportion="0.0" vertical-offset="3720" max-vertical-offset="4485">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/webroot/css/burbington/menu.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="16" column="23" selection-start="228" selection-end="228" vertical-scroll-proportion="-9.230769" vertical-offset="0" max-vertical-offset="15825">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Template/Layout/login.ctp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="20" column="6" selection-start="792" selection-end="792" vertical-scroll-proportion="-12.5" vertical-offset="0" max-vertical-offset="540">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Template/Layout/default__.ctp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="31" column="21" selection-start="1370" selection-end="1423" vertical-scroll-proportion="-7.4583335" vertical-offset="286" max-vertical-offset="975">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/webroot/js/site.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="16" column="8" selection-start="529" selection-end="529" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="780">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Template/Element/Admin/burb_nav.ctp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="38" selection-start="0" selection-end="38" vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="1230">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Template/Element/Admin/news_ticker.ctp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="14" column="6" selection-start="690" selection-end="690" vertical-scroll-proportion="-8.75" vertical-offset="0" max-vertical-offset="300">
+          <folding>
+            <marker date="1476595242000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1476595242000" expanded="true" signature="-1:-1" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Template/Element/Admin/navbar_top.ctp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="73" column="13" selection-start="4457" selection-end="4457" vertical-scroll-proportion="-29.958334" vertical-offset="376" max-vertical-offset="1230">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/webroot/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="522">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Template/Element/Admin/news_widget.ctp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="57" column="0" selection-start="2448" selection-end="2448" vertical-scroll-proportion="-19.5" vertical-offset="387" max-vertical-offset="945">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Template/Element/Admin/side_nav.ctp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="15" column="25" selection-start="603" selection-end="603" vertical-scroll-proportion="-9.375" vertical-offset="0" max-vertical-offset="315">
+          <folding>
+            <marker date="1476605743000" expanded="true" signature="-1:-1" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Template/Pages/content.ctp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="3" column="57" selection-start="72" selection-end="99" vertical-scroll-proportion="-1.875" vertical-offset="0" max-vertical-offset="900">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Template/Pages/albums.ctp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4" column="57" selection-start="73" selection-end="100" vertical-scroll-proportion="-2.5" vertical-offset="0" max-vertical-offset="1395">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Template/template.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="147" column="19" selection-start="6692" selection-end="11883" vertical-scroll-proportion="-5.6666665" vertical-offset="2069" max-vertical-offset="4875">
+          <folding>
+            <element signature="tag#div#0;tag#div#1;tag#div#0;tag#div#1;tag#body#0;tag#html#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Template/Pages/categories.ctp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="41" vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="1650">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Template/Pages/gallery.ctp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1" column="31" selection-start="32" selection-end="32" vertical-scroll-proportion="-0.625" vertical-offset="0" max-vertical-offset="1440">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Controller/Portal/AdmissionsController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="21" column="35" selection-start="418" selection-end="418" vertical-scroll-proportion="35.0" vertical-offset="1155" max-vertical-offset="2580">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Controller/AppController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="93" column="36" selection-start="3246" selection-end="3246" vertical-scroll-proportion="-8.625" vertical-offset="318" max-vertical-offset="3525">
+          <folding>
+            <element signature="e#1385#3161#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Template/Pages/contact.ctp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="97" column="34" selection-start="5214" selection-end="5592" vertical-scroll-proportion="-8.333333" vertical-offset="1255" max-vertical-offset="1740">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Template/Pages/home.ctp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="3975">
+          <folding>
+            <element signature="tag#div#0" expanded="false" />
+            <element signature="tag#ol#0;tag#div#0;tag#div#0;tag#div#0" expanded="false" />
+            <element signature="tag#div#4" expanded="false" />
+            <element signature="tag#div#2;tag#div#6" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Template/Layout/default.ctp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="105" column="0" selection-start="3738" selection-end="3738" vertical-scroll-proportion="-18.958334" vertical-offset="1120" max-vertical-offset="4440">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Template/Layout/default_inner_full.ctp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="101" column="41" selection-start="3718" selection-end="3718" vertical-scroll-proportion="-6.4583335" vertical-offset="1360" max-vertical-offset="4590">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Template/Layout/default_inner.ctp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="102" column="0" selection-start="3709" selection-end="3709" vertical-scroll-proportion="-4.5833335" vertical-offset="1420" max-vertical-offset="4770">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Template/Portal/Admissions/apply.ctp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="31" selection-start="229" selection-end="229" vertical-scroll-proportion="-5.0" vertical-offset="0" max-vertical-offset="1500">
+          <folding>
+            <element signature="n#style#0;n#h3#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="tag#div#0;tag#div#1;tag#div#1;tag#div#0;tag#div#0;tag#div#0;tag#div#0" expanded="false" />
+            <element signature="tag#div#2;tag#div#1;tag#div#0;tag#div#0;tag#div#0;tag#div#0" expanded="false" />
+            <element signature="tag#div#0;tag#div#3;tag#div#1;tag#div#0;tag#div#0;tag#div#0;tag#div#0" expanded="false" />
+            <element signature="tag#div#4;tag#div#1;tag#div#0;tag#div#0;tag#div#0;tag#div#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/webroot/css/burbington/theme_style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="47" column="125" selection-start="2159" selection-end="2159" vertical-scroll-proportion="0.0" vertical-offset="285" max-vertical-offset="10770">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Template/Element/Admin/top_nav.ctp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="164" column="59" selection-start="9079" selection-end="9079" vertical-scroll-proportion="-8.25" vertical-offset="1017" max-vertical-offset="3975">
+          <folding>
+            <element signature="tag#div#0;tag#li#2;tag#ul#0;tag#div#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Template/Portal/Users/login.ctp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="80" selection-start="600" selection-end="600" vertical-scroll-proportion="-1.6794872" vertical-offset="49" max-vertical-offset="480">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Controller/Portal/UsersController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="261" column="40" selection-start="9085" selection-end="9085" vertical-scroll-proportion="-3.14" vertical-offset="3653" max-vertical-offset="7695">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Template/Error/error400.ctp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="88" column="0" selection-start="0" selection-end="2682" vertical-scroll-proportion="-30.833334" vertical-offset="580" max-vertical-offset="1440">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Template/Error/error500.ctp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="61" column="46" selection-start="1746" selection-end="1746" vertical-scroll-proportion="-5.8333335" vertical-offset="775" max-vertical-offset="1440">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/composer.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="17" column="48" selection-start="625" selection-end="625" vertical-scroll-proportion="0.5120482" vertical-offset="0" max-vertical-offset="810">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
+
